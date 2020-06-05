@@ -14,3 +14,6 @@ This notebook is dependant on the csv file created in notebook 1. This notebook 
 
 #### Notebook 3 - Main Preprocessing:
 This notebook is dependant on the output of notebook 2. This notebook has many different options which can be set by using the corresponding flags. The flags dictate how the data is processed for notebook 4 and 5. 
+
+#### Notebook 4 - ML Models:
+This notebook is dependant on the output of notebook 3. The data must have been processed in notebook 3 with the flag "LONGITUDINAL_APPROACH" set to either 0 or 1. Each model in notebook 4 has options available for it. The same is true for how we show final results for models. 
