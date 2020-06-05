@@ -17,3 +17,6 @@ This notebook is dependant on the output of notebook 2. This notebook has many d
 
 #### Notebook 4 - ML Models:
 This notebook is dependant on the output of notebook 3. The data must have been processed in notebook 3 with the flag "LONGITUDINAL_APPROACH" set to either 0 or 1. Each model in notebook 4 has options available for it. The same is true for how we show final results for models. 
+
+#### Notebook 5 - Deep Learning:
+This notebook is dependant on the output of notebook 3. The data must have been processed in notebook 3 with the flag "LONGITUDINAL_APPROACH" set to 2. The notebook should be run in steps (set with flags) because each step is computationally expensive. 
