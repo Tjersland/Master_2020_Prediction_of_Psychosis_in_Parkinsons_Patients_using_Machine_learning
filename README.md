@@ -11,3 +11,6 @@ This notebook requires the PPMI database in "Necessary Folders and Files". Other
 
 #### Notebook 2 - Missing Values:
 This notebook is dependant on the csv file created in notebook 1 and the csv file "Column_types.csv" from "Necessary Folders and Files". This notebook has one notable option that needs to be set with a flag. Which missing value imputation that is used
+
+#### Notebook 3 - Main Preprocessing:
+This notebook is dependant on the output of notebook 2. This notebook has many different options which can be set by using the corresponding flags. The flags dictate how the data is processed for notebook 4 and 5. 
