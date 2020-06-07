@@ -1,6 +1,6 @@
 # Prediction of Psychosis in Parkinson’s Patients using Machine learning - Master 2020
 
-In order to run the notebooks, the folders and csv files in "Necessary Folders and Files" must be downloaded and placed where you point the code to look for them
+In order to run the notebooks, the folders and csv files in "Necessary Folders and Files" must be downloaded and placed where you point the code to look for them. The first cell in every notebook is where you specify which folders the code looks for these files. 
 
 Notebooks 1,2 and 3 must be run in chronological order. 
 
